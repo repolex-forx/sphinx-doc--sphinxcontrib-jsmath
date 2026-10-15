@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sphinx-doc/sphinxcontrib-jsmath/commit/19763d7fc9ebb29eb2f325fef0bc6f067907a233",
       "git:hexsha": "19763d7fc9ebb29eb2f325fef0bc6f067907a233",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T15:10:33.942759+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-doc/sphinxcontrib-jsmath/commit/86fd40b468b68ed2b8d50229d7b50aefb63c5094",
