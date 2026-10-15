@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-doc",
+  "repo": "sphinxcontrib-jsmath",
+  "versions": [
+    {
+      "commit": "19763d7fc9ebb29eb2f325fef0bc6f067907a233",
+      "tag": "",
+      "parsed_at": "2026-10-15T15:10:33.957759+00:00"
+    }
+  ]
+}
